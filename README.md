@@ -1,1 +1,1 @@
-# Etape_1_projet_PSI
+# Extensions à installer dans Visual Studi Community
